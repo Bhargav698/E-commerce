@@ -1,6 +1,6 @@
 # E-commerce Project
 
-This project contains the frontend and backend for a full-stack e-commerce applications.
+This project contains the frontend and backend for a full-stack e-commerce application.
 
 ## Backend
 
